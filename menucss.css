@@ -1,0 +1,47 @@
+
+@font-face {
+			font-family: ailerons;
+			src: url('fonts/Ailerons-Typeface.otf')
+		}
+
+body{
+	font-size: 100%;
+	font-family: ailerons;
+}
+
+ul{
+	background-color: #8F8F8F;
+	list-style-type: none;
+	/*margin-left: 200px;*/
+	padding: 0;
+	overflow: auto;
+	width: 100%;
+	/*display: block;
+	margin-right: auto;
+	margin-left: auto;*/
+
+
+}
+
+
+li{
+	float: left;
+	padding:  1em;
+	background-color: #8F8F8F;
+}
+
+li a:hover{
+	background-color: #8885F1;
+}
+
+li a:active{
+	background-color: #00FEE9;
+}
+
+
+li a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}

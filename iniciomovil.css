@@ -1,0 +1,34 @@
+@media (max-width: 600px) {
+	.iframe{
+			width: 100%;
+			height: 200px;
+			border-width: 0px;
+		}
+
+	.cabeza{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+			width: 100%;
+		}
+
+		#tiempo{
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+}

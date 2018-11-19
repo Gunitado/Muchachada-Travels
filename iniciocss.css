@@ -1,0 +1,38 @@
+		
+
+		.iframe{
+			width: 100%;
+			height: 85px;
+			border-width: 0px;
+		}
+
+		*{
+			box-sizing: border-box;
+			font-family: verdana;
+		}
+
+		#tiempo{
+			margin-left: 100px;
+			margin-right: 100px;
+		}
+
+		#banner{
+			
+		}
+
+		.cabeza{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+			width: 75%;
+
+		}
+
+		body{
+			background-image: url('imagenes/back1.jpg');
+		}
+
+		img{
+			width: 100%;
+		}
